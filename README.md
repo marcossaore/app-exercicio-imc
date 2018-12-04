@@ -30,6 +30,6 @@ This project is open-source
 
 ## Telas
 
-<img src="demo-imgs/1.png" width="116px" height="32px"/><br/>
-<img src="demo-imgs/2.png" width="116px" height="32px"/><br/>
-<img src="demo-imgs/2.png" width="116px" height="32px"/><br/>
+<img src="demo-imgs/1.png" width="400px" height="700px"/><br/>
+<img src="demo-imgs/2.png" width="400px" height="700px"/><br/>
+<img src="demo-imgs/2.png" width="400px" height="700px"/><br/>
