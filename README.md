@@ -32,4 +32,4 @@ This project is open-source
 
 <img src="demo-imgs/1.png" width="400px" height="700px"/><br/>
 <img src="demo-imgs/2.png" width="400px" height="700px"/><br/>
-<img src="demo-imgs/2.png" width="400px" height="700px"/><br/>
+<img src="demo-imgs/3.png" width="400px" height="700px"/><br/>
